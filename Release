@@ -1,9 +1,9 @@
-Origin: TheComputerWhisperer's Repo
-Label: TheComputerWhisperer's Repo
+Origin: AliAlbasrawi's Repo
+Label: AliAlbasrawi's Repo
 Suite: stable
 Version: 1.0
-Codename: TheComputerWhisperer
+Codename: AliAlbasrawi
 Architectures: iphoneos-arm
 Components: main
-Description: TheComputerWhisperer's Development Repo
+Description: AliAlbasrawi's Development Repo
 MD5Sum:
